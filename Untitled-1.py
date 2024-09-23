@@ -1,2 +1,2 @@
-print =input ("digite sua idade")
-input(idade)
+idade =input ("digite sua idade")
+print(type(idade))
