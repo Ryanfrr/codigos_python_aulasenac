@@ -1,0 +1,5 @@
+a= 'RYAN FERREIRA DE OLIVEIRA'
+print('FERREIRA'in a)
+#ou
+a= 'RYAN FERREIRA DE OLIVEIRA'
+print('COSTA'in a)
