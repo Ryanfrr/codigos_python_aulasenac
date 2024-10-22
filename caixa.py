@@ -13,7 +13,7 @@ while True:
     else:
         print("Valor invalido")
         
-    pag=float(input("Informe o valor do pagamento: "))
+pag=float(input("Informe o valor do pagamento: "))
 if pag < total:
     print ("Valor invalido")
 
